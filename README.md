@@ -23,4 +23,6 @@ Anyway, we took a lot of fun to build it and for sure, this isn't the last one!
 
 # Credits
 This project is build in association with 
-https://img.shields.io/node/v/node
+- https://github.com/Hohnn
+- https://github.com/TheoWebDev
+- https://github.com/raphoudre
