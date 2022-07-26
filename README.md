@@ -8,7 +8,7 @@ API is feeding 3 layers :
   - mobile (React Native) 
   - desktop (ElectronJS).
 
-API is hosted at this endpoint https://wwww.skydrone-api.herokuapp.com/api-doc/ to be accessible for all layers.
+API is hosted at this endpoint https://skydrone-api.herokuapp.com/api-doc/ to be accessible for all layers.
 
 I handle many technologies, surely not as deep as I wish but is it realistics in this so short laps time ? 
 
